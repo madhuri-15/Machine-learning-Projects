@@ -8,8 +8,7 @@
 4. [Methodology](#methodology)
 5. [Results](#results)
 6. [Streamlit app](#streamlit-app)
-7. [Conclusion](#conclusion)
-8. [Installation](#installation)
+7. [Installation](#installation)
 
 ## Objective
 The objective of this project is to develop a system capable of classifying email and SMS messages as either spam or ham (not spam). This can help in filtering out unwanted messages and ensuring important communications are not missed.
@@ -75,8 +74,6 @@ A Streamlit web application was created to provide an interactive interface for 
 
 User Input: Users can input a message to be classified.
 Prediction: The app displays whether the message is spam or ham.
-
-Find streamlit application [here]()
 
 ## Installation
 To run this project, ensure you have Python installed along with the following libraries:
